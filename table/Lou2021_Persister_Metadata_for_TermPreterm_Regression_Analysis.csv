@@ -1,0 +1,23 @@
+infant,num_persisters,perc_persisters,num_early_colonizers,Term,Gender,Race,Delivery,Weight,Discharge_DOL,Disease,Feeds,Prolacta,Cessation_BRM,Solid_Food_DOL,Early_Abx_Courses,Mid_Abx_Courses,Late_Abx_Courses
+L1_007,3,0.12,25,Term,Female,Caucasian,C-section,3130,4,None,BRM,NO,116,130,0,0,0
+L1_008,7,0.412,17,Term,Female,Caucasian,Vaginal,3107,3,None,BRM,NO,416,146,0,0,0
+L2_013,3,0.083,36,Preterm,Female,Caucasian,Vaginal,1449,48,None,Mix,NO,169,189,0,0,0
+L2_019,2,0.125,16,Preterm,Male,Caucasian,Vaginal,1190,86,NEC/LOS,Mix,YES,97,238,2,0,0
+L2_021,0,0,12,Term,Female,American Indian,C-section,2190,4,None,Mix,NO,179,180,0,0,0
+L2_022,1,0.056,18,Term,Male,Caucasian,C-section,4130,3,None,Mix,NO,70,209,0,1,6
+L2_023,1,0.04,25,Preterm,Male,Multiracial,C-section,1219,84,NEC/LOS,Mix,YES,,235,5,0,0
+L2_026,4,0.222,18,Term,Female,Caucasian,Vaginal,3095,3,None,Mix,NO,215,123,0,0,0
+L2_031,0,0,13,Term,Male,Caucasian,C-section,4030,4,None,Mix,NO,396,184,0,0,5
+L2_037,2,0.054,37,Preterm,Male,Caucasian,C-section,1565,64,None,BRM,NO,48,57,0,0,3
+L2_038,5,0.357,14,Term,Male,Caucasian,Vaginal,3665,4,None,BRM,NO,,184,0,0,2
+L2_039,0,0,19,Preterm,Male,Caucasian,C-section,870,66,NEC/LOS,Mix,YES,284,298,2,0,0
+L2_040,1,0.04,25,Preterm,Male,Caucasian,C-section,648,102,NEC/LOS,Mix,YES,164,289,3,0,0
+L2_041,1,0.067,15,Preterm,Male,Multiracial,C-section,425,112,NEC/LOS,BRM,YES,33,288,3,0,0
+L2_047,1,0.043,23,Term,Female,Caucasian,Vaginal,3580,3,None,Mix,NO,389,158,0,0,0
+L2_057,2,0.034,59,Preterm,Female,Caucasian,C-section,797,82,NEC/LOS,Mix,YES,178,273,1,0,1
+L2_059,0,0,25,Preterm,Male,Caucasian,C-section,1101,65,NEC/LOS,BRM,YES,47,180,1,0,0
+L3_129,5,0.156,32,Term,Male,Caucasian,C-section,2945,4,None,BRM,NO,13,135,0,0,1
+L3_130,1,0.017,59,Term,Male,Caucasian,C-section,4000,4,None,Mix,NO,,,,,
+L3_131,2,0.143,14,Term,Male,Caucasian,Vaginal,3440,4,None,Mix,NO,233,193,0,0,1
+L3_132,9,0.346,26,Term,Female,Caucasian,C-section,3719,4,None,Mix,NO,18,193,0,0,0
+L3_133,9,0.281,32,Term,Female,Caucasian,C-section,3423,4,None,Mix,NO,183,473,1,0,1
