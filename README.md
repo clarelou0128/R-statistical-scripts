@@ -1,4 +1,3 @@
-# README
 
 R script used in the following manuscript:
 
